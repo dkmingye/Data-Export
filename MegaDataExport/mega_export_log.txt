@@ -1,0 +1,16 @@
+**********Mega Data Exporting**************
+============Log Start at: Tue Dec 08 10:07:48 CET 2015=========
+Environment: [AkerTest]
+Repository: [AkerTest]
+Username: [Mega]
+Password: []
+JSON file path: [c:\\Users\\Ming\\Desktop\\AkerTest-AkerTest-2015-12-08.json]
+============Finish reading config file==========
+============Start connnecting with environment==========
+Accessed environment : C:\Users\Public\Documents\MEGA HOPEX V1R2\AkerTest
+============Start collecting data=======
+Top level item: Knowledge Arena
+============Start exporting data=======
+============Data Exported=============
+============Session end===========
+============Log End at: Tue Dec 08 10:07:59 CET 2015=========
