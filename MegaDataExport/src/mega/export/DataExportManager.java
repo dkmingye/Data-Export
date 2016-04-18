@@ -13,7 +13,7 @@ public class DataExportManager {
 	}
 
 	public void start() {
-		// get the root items t
+		// get the root items 
 		MegaCollection rootAkerItems = megaroot
 				.getSelection(get_root_item_query);
 		
